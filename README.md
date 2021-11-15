@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaileshrabari9
-- 👀 I’m interested in .
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Hacking
+- 🌱 I’m currently learning Hacking
+- 💞️ I’m looking to collaborate on social media
 - 📫 How to reach me ...
 
 <!---
